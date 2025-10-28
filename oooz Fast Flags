@@ -1,4 +1,7 @@
+setfpscap("99999")
+setfflag("MicroProfilerDpiScaleOverride", "250")
 setfflag("TerrainMaterialTable2022", "")
+setfflag("DebugDisplayFPS", "true")
 setfflag("SimFixAssemblyRadiusCalc", "true")
 setfflag("FixMeshLoadingHang", "true")
 setfflag("DebugGraphicsPreferD3D11FL10", "false")
